@@ -1,2 +1,2 @@
-# Princess_Robot
+# Kingsman Robot
 A robot that interacts with the user via linux terminal
